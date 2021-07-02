@@ -1,0 +1,89 @@
+body{
+    background-color:whitesmoke;
+}
+img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left:auto;
+    margin-right: auto;
+  }
+.content {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 80%;
+    padding: 20px;
+    margin-left: 132px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+  }
+ .content #btn1 {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+  }
+  .content #btn2 {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+  }
+  .content #btn3 {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+  }
+  .content #btn4 {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+  }
+  .content #btn5 {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+  }
+  @media only screen and (max-width: 768px) {
+    #myVideo {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left:auto;
+        margin-right: auto;
+      }
+      .content {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.5);
+        color: #f1f1f1;
+        width: 80%;
+        padding: 20px;
+        margin-left: 132px;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-right: auto;
+      }
+
+
+  }
